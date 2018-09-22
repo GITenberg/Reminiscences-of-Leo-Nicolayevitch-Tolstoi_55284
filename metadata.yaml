@@ -1,5 +1,5 @@
 _repo: Reminiscences-of-Leo-Nicolayevitch-Tolstoi_55284
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Woolf, Leonard
@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '4566'
     url: http://www.gutenberg.org/2009/agents/4566
     wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+covers:
+- cover_type: archival
+  image_path: 55284-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55284#Reminiscences-of-Leo-Nicolayevitch-Tolstoi
 gutenberg_issued: '2017-08-07'
 gutenberg_type: Text
 identifiers:
